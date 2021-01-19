@@ -1,5 +1,5 @@
 # Historic Indenture Data
-# Record of indentures of individuals bound out as apprentices, servants, etc., and of German and other redemptioners, 1771 October 3 - 1773 October 5
+## Record of indentures of individuals bound out as apprentices, servants, etc., and of German and other redemptioners, 1771 October 3 - 1773 October 5
 
 ## What is this data?
 This dataset was created from a volume of over 800 pages that records information pertaining to individuals entering contracts of indentured servitude in Philadelphia from 1771-1773. Each entry contains details about the person to be indentured, including their name, country of origin, length of contract, and amount of debt owed. The records not only list the name of the person, but contain details on their profession and on the terms of the indenture. The original volume (Mss.647.P53) from which this spreadsheet was made is in the collections of the American Philosophical Society and can be viewed in the <a href="https://diglib.amphilsoc.org/islandora/compound/record-indentures-individuals-bound-out-apprentices-servants-etc-and-german-and#page/1/mode/1up">APS Digital Library</a>.
