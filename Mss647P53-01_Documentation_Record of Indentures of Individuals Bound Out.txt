@@ -1,0 +1,89 @@
+American Philosophical Society Library & Museum
+Dataset documentation: Record of indentures of individuals bound out... (Mss647P53-01)
+
+---
+Contents:
+	Document type
+	Dataset identifier
+	File format
+	Abstract
+	Time Period, Start Date of Data Coverage
+	Time Period, End Date of Data Coverage
+	Date of this version
+	Source(s)
+	Data description
+	Column structure and contents
+	Damage and lost data
+	Assumptions
+	Normalization and data standards
+	Related dataset(s)
+	License
+	Caveat Emptor
+	Preferred citation
+	Process & Attribution	
+
+---
+Document type: Dataset
+
+
+Dataset identifier: Mss647P53-01
+
+
+File format: CSV
+
+
+Abstract: "This large volume contains the records of those entering contracts of indentured servitude in Philadelphia from 1771-1773. The records not only list the name of the person, but contain details on their profession and on the terms of the indenture. Although the volume is described as the records of German immigrants, there are other indentures included, such as that of John Slour, “a free negro,” records of those arriving from Ireland, and of young Philadelphians choosing to enter indentured contracts. The volume had been on loan to the City Archives until 1987. During that time, approximately twenty pages went missing. Otherwise, the volume appears to be complete and contains over 800 pages of records with each page containing information for about four to six individuals. An alphabetical index of names follows page 839."
+
+
+Time Period, Start Date of Data Coverage: 1771
+Time Period, End Date of Data Coverage: 1773
+
+
+Date of this version: January 2021
+
+
+Source(s):
+Item title: Record of indentures of individuals bound out as apprentices, servants, etc., and of German and other redemptioners, 1771 October 3 - 1773 October 5
+Item collection: Record of indentures of individuals bound out as apprentices, servants, etc., and of German and other redemptioners, 1771 October 3 - 1773 October 5
+Item call number: Mss 647.P53
+Finding aid: http://www.amphilsoc.org/collections/view?docId=ead/Mss.647.P53-ead.xml
+Digital surrogate location: https://diglib.amphilsoc.org/islandora/object/text:151416
+
+
+Data description:
+This dataset was created from a volume of over 800 pages that records information pertaining to individuals entering contracts of indentured servitude in Philadelphia from 1771-1773. Each entry contains details about the person to be indentured, including their name, country of origin, length of contract, and amount of debt owed. The records not only list the name of the person, but contain details on their profession and on the terms of the indenture. Although the volume is described as the records of German immigrants, there are other indentures included, such as that of John Slour, "a free negro," records of those arriving from Ireland, and of young Philadelphians choosing to enter indentured contracts.
+
+Each row has been assigned a numerical ID ('Sort ID') to allow sorting while preserving the data's context.
+
+
+Damage and Lost Data:
+The volume had been on loan to the City Archives until 1987. During that time, approximately twenty pages went missing. As indicated in the dataset in the "Transcription Notes" column, the missing data was supplemented where possible by reference to the 1907 printed edition by the Pennsylvania-German Society, which was obtained through the Internet Archive (https://archive.org/details/recordofindentur16phil), although the supplemental data is not formatted identically to the original manuscript.
+
+
+Assumptions:
+Dittos (Do.) are silently corrected and assumed to refer to the information in the above row.
+
+
+Normalization and Data Standards:
+Date is separated into year, month, date. Transcribed comments are generally not normalized, unless damage, foxing, and ink stains make some letters difficult to interpret.
+
+Where families or multiple persons were recorded as part of one contract, they have been assigned individual "transactions" and noted as originally grouped within the "Transcription Notes" column.
+
+
+License:
+These datasets are available for anyone to evaluate, share, reuse, and remix as they wish under a Creative Commons Attribution 4.0 License. Please attribute APS Library & Museum.
+
+
+Caveat Emptor:
+These datasets were created as part of the American Philosophical Society's Open Data Initiative (Learn more at http://diglib.amphilsoc.org/data).
+Although contributors took care to minimize mistakes and inconsistencies in the creation of these items, and have included any assumptions or choices made on their part that may affect interoperability or integrity of the data, APS cannot guarantee that they are free of instances of human error. They are offered "as is," and researchers are encouraged to consult the original records in digital or physical format in the event of uncertainty. If you have feedback or notice errors in the data, please contact us at digitalprojects@amphilsoc.org.
+
+
+Preferred Citation:
+Chicago (16th ed., bibliography): Heider, Cynthia, and Benjamin Weinstein. Record of indentures of individuals bound out as apprentices, servants, etc., and of German and other redemptioners, 1771 October 3 - 1773 October 5. Dataset Mss647P53-01. Distributed by Philadelphia: American Philosophical Society Library & Museum, 2019. [url]
+
+
+Process:
+Phase One, June 2017-March 2019: Digitization, transcription, and basic data structuring by Benjamin Weinstein (Washington College Explore America Intern) and Cynthia Heider (Digital Projects Specialist) at APS.
+Phase Two, March-April 2019: Data restructuring and refinement in OpenRefine for more effective computational analysis by Cynthia Heider.
+Phase Three, January 2021: Documentation created to align with other ODI projects' format by Cynthia Heider.
